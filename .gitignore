@@ -1,0 +1,31 @@
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Maven - arquivos compilados
+target/
+
+# Java - arquivos compilados
+*.class
+
+# Logs
+*.log
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Arquivos temporários
+*.tmp
+*.swp
+
+# Variáveis de ambiente e configurações locais
+.env
+.env.*
+
+# Arquivos de configuração local
+application-local.properties
+application-local.yml
